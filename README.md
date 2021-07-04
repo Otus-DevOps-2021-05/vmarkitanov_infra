@@ -27,4 +27,4 @@ Host someinternalhost
 
 Данные для подключения следующие:
 bastion_IP = 178.154.247.182
-someinternalhost_IP = 10.128.0.22	
+someinternalhost_IP = 10.128.0.22

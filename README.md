@@ -10,7 +10,7 @@ vmarkitanov Infra repository
 Загружено и запущено тестовое приложение
 Данные для входа:
 
-testapp_IP = 178.154.200.217
+testapp_IP = 178.154.203.137
 testapp_port = 9292
 
 Созданы три скрипта install_ruby.sh, install_mongodb.sh и deploy.sh для  установки необходимых пакетов и разворачивания приложения

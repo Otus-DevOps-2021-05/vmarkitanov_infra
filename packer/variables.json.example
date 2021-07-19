@@ -1,7 +1,6 @@
 {
 	"id_folder": "blablabla",
 	"id_source": "ubuntu-1604-lts",
-	"key_file": "/home/blablabla/.ssh/key.json",
 	"cpu_count": "2",
 	"mem_gb": "2",
 	"disk_size": "10"
